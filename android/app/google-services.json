@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "191435219992",
+    "project_id": "creative-monitoring-6a6c3",
+    "storage_bucket": "creative-monitoring-6a6c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191435219992:android:1c7c7a52a38819fcdf4f6d",
+        "android_client_info": {
+          "package_name": "com.example.creative_monitoring_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191435219992-3rcpe9maoi45q1qdgp8gidqq8d3vsvfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDw0P_UVwQCT1ldkdUNMzIuExp1DozLMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191435219992-3rcpe9maoi45q1qdgp8gidqq8d3vsvfa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "191435219992-kcdngvlllk506cano7qlue0so6rcj4k3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.creativeMonitoringClient"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
